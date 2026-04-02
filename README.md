@@ -21,4 +21,4 @@ All suspicious activities are logged in `alerts.log`.
 
 ## Author
 Omkar Shinde  
-Email: your-email@example.com
+
