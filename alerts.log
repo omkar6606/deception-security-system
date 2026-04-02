@@ -1,0 +1,15 @@
+2026-04-02 15:05:07.697447 | 127.0.0.1 | Fake Login Attempt: efwwefwef
+2026-04-02 15:07:52.593772 | Honeyfile accessed
+2026-04-02 15:10:28.251440 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:18:23.448083 | 127.0.0.1 | Fake Login Attempt: efewf
+2026-04-02 15:25:14.892831 | 127.0.0.1 | Fake Login Attempt: efewf
+2026-04-02 15:25:19.048449 | 127.0.0.1 | Fake Login Attempt: efewf
+2026-04-02 15:27:08.885444 | 127.0.0.1 | Fake Login Attempt: admin
+2026-04-02 15:38:48.647413 | Honeyfile accessed
+2026-04-02 15:50:12.186462 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:55:18.216540 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:55:23.018567 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:55:27.373417 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:55:27.809073 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:58:24.352499 | 127.0.0.1 | Accessed /internal-api
+2026-04-02 15:58:24.756421 | 127.0.0.1 | Accessed /internal-api
