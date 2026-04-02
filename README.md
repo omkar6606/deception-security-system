@@ -1,48 +1,24 @@
-\# Deception-Based Security System
+# Deception-Based Security System
 
+## Overview
+This project implements a deception-based security system using fake APIs, login pages, and decoy files to detect unauthorized access attempts.
 
+## Features
+- Fake API endpoints to lure attackers
+- Fake login system for credential capture
+- Honeyfile monitoring
+- Real-time alert logging
 
-\## Overview
+## Project Structure
+- fake_api.py – Simulates fake API endpoints
+- fake_login.py – Captures login attempts
+- honeyfile_monitor.py – Monitors decoy file access
+- alerts.log – Stores detected activities
+- decoy_credentials.txt – Fake credentials for attackers
 
-This project implements a deception-based security system using fake APIs, login pages, and decoy files to detect unauthorised access attempts.
+## Output
+All suspicious activities are logged in `alerts.log`.
 
-
-
-\## Features
-
-\- Fake API endpoints to lure attackers
-
-\- Fake login system for credential capture
-
-\- Honeyfile monitoring
-
-\- Alert generation and logging
-
-
-
-\## Files
-
-\- fake\_api.py
-
-\- fake\_login.py
-
-\- honeyfile\_monitor.py
-
-\- alerts.log
-
-\- decoy\_credentials.txt
-
-
-
-\## Output
-
-All suspicious activities are logged in alerts.log
-
-
-
-\## Author
-
+## Author
 Omkar Shinde  
-
-Email: omshinde6606@gmail.com
-
+Email: your-email@example.com
